@@ -23,5 +23,3 @@ git clone https://github.com/yisky/vista3d-skills.git .cursor/skills/vista3d
 ```
 
 更新：`git pull`。
-
-开发时作为 `vista3d` 主仓的 git submodule，目录为仓库根下的 `skills/`。
