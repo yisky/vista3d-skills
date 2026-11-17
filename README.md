@@ -21,5 +21,3 @@ git clone https://github.com/yisky/vista3d-skills.git %USERPROFILE%\.cursor\skil
 ```bash
 git clone https://github.com/yisky/vista3d-skills.git .cursor/skills/vista3d
 ```
-
-更新：`git pull`。
